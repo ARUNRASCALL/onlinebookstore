@@ -1,0 +1,4 @@
+mvn sonar:sonar \
+  -Dsonar.projectKey=JAVA-key \
+  -Dsonar.host.url=http://54.244.143.17:9000 \
+  -Dsonar.login=e5c91a38225f6c2b66d7c5592d51e90e4bf1d4e9
